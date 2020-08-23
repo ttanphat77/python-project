@@ -11,7 +11,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.19.1
-opencv-python-headless==4.2.0.32
+opencv-python==4.4.0.40
 pipenv==2018.11.26
 six==1.15.0
 virtualenv==20.0.31
